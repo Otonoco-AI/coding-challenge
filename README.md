@@ -34,7 +34,7 @@ Build a simple regulatory document discovery app that demonstrates AI integratio
 
 4. **Technical Implementation**
    * Choose one frontend framework (React, Vue, or vanilla JS)
-   * Integrate with one AI service (OpenAI, Anthropic, or Hugging Face)
+   * Integrate with one AI service (Gemini, OpenAI, Anthropic, or Hugging Face)
    * Basic state management (can be simple useState/reactive data)
    * Clean code structure with comments explaining your approach
 
